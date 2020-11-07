@@ -1,0 +1,1 @@
+# Setup a Minecraft Bedrock edition server based on pre-existing GPC image into default VPC
