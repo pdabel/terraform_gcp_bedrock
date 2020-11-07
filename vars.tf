@@ -1,0 +1,10 @@
+variable "credentials" {}
+variable "project_id" {}
+variable "region" {}
+#variable "app_engine_region" {}
+variable "zone" {}
+variable "allowed_from" {}
+variable "gce_ssh_user" {}
+variable "gce_ssh_pub_key_file" {}
+variable "gcp_disk_image" {}
+#variable "dns_zone_name" {}
